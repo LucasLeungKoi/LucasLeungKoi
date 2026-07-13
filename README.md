@@ -50,3 +50,15 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+---
+
+<!-- ═══════════════════ GITHUB STREAK（計總貢獻/連續天數）═══════════════════ -->
+
+### 📊 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=LucasLeungKoi&hide_border=true&theme=radical" alt="streak" />
+
+</div>
