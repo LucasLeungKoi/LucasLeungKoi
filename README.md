@@ -50,20 +50,3 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
-
----
-
-<!-- ═══════════════════ GITHUB STATS（chthollyphile 式並排，用鏡像實例避免破圖）═══════════════════ -->
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=LucasLeungKoi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=LucasLeungKoi&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=radical" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=LucasLeungKoi&hide_border=true&theme=radical" alt="streak" />
-
-</div>
