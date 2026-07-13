@@ -19,6 +19,7 @@
 * 📱 **Mobile Development：** 從事 iOS 與 Android 原生應用程式開發
 * 🌐 **Web Development：** 專注前端介面與互動體驗的建構
 * ✨ **Currently Exploring：** React 與 Electron 的沉浸式介面及前端動畫
+* 🎧 **Interests：** 音樂、動漫與 J-Pop 愛好者
 * 💬 **Ask me about：** iOS／Android／Web 前端開發
 
 ---
