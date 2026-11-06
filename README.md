@@ -62,3 +62,13 @@
 <img src="https://streak-stats.demolab.com?user=LucasLeungKoi&hide_border=true&theme=radical" alt="streak" />
 
 </div>
+
+---
+
+### 🐟 GitHub Koi
+
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="My git-koi" />
+
+</div>
